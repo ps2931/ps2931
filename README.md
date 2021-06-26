@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ps2931
-- 👀 I’m interested in Data Engineering, Cloud Computing and Functional Programming.
-- 🌱 I’m currently learning Rustlang & GCP
+- 👀 I’m a Data Engineer. I am interested in Cloud Computing and Functional Programming.
+- 🌱 I’m currently learning Scala & GCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
